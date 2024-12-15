@@ -11,7 +11,7 @@ API_ID = "20892978"
 API_HASH = "ab1bf6b3740eedc41db3bd1a390e54e0"
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = "7825465869:AAHMYwr-oYc4Z-w4APOy2MzgMfX5-DWKVMs"
+BOT_TOKEN = "7825465869:AAH8-7Y9LWtA9PWCI119FaZehYmTQytr-4I"
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = "mongodb+srv://yoyomusicbot:mr0nvoX6eRnI1w17@yoyomusicbotoye.tgmoc.mongodb.net/?retryWrites=true&w=majority&appName=yoyomusicbotoye"
