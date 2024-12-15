@@ -14,7 +14,7 @@ API_HASH = "ab1bf6b3740eedc41db3bd1a390e54e0"
 BOT_TOKEN = "7825465869:AAH8-7Y9LWtA9PWCI119FaZehYmTQytr-4I"
 
 # Get your mongo url from cloud.mongodb.com
-MONGO_URI = "mongodb://Projectxxx:lodekadbworkbckundkiyrahkrgamadarchod@madarchod-shard-00-00.zgzrc.mongodb.net:27017,madarchod-shard-00-01.zgzrc.mongodb.net:27017,madarchod-shard-00-02.zgzrc.mongodb.net:27017/test?ssl=true&replicaSet=atlas-123-shard-0&authSource=admin&retryWrites=true&w=majority"
+MONGO_DB_URI = "mongodb://Projectxxx:lodekadbworkbckundkiyrahkrgamadarchod@madarchod-shard-00-00.zgzrc.mongodb.net:27017,madarchod-shard-00-01.zgzrc.mongodb.net:27017,madarchod-shard-00-02.zgzrc.mongodb.net:27017/test?ssl=true&replicaSet=atlas-123-shard-0&authSource=admin&retryWrites=true&w=majority"
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 10000))
 
